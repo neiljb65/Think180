@@ -1,0 +1,3 @@
+report ZJLG_HELLOWORLD.
+
+write: `Hello world`.
