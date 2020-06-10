@@ -9,4 +9,4 @@ WRITE: / `hello world, abapGit is setup`.
 
 WRITE: / `more code added before CodeDojo`.
 
-WRITE: / `Some more changes applied on GitHub`.
+WRITE: / `Some more changes applied on GITHub`.
