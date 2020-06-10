@@ -7,4 +7,6 @@ REPORT zjlg_test.
 
 WRITE: / `hello world, abapGit is setup`.
 
-WRITE: / `more code added before CodeDojo - during the meeting`.
+WRITE: / `more code added before CodeDojo`.
+
+WRITE: / `Some more changes applied on GitHub`.
